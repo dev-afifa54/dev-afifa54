@@ -1,3 +1,4 @@
+<img src="https://github.com/dev-afifa54/dev-afifa54/blob/main/Blue%20Pink%20Gradient%20Modern%20Web%20Developer%20Twitter%20Header.png"
 <h1 align="center">Hi 👋, I'm Afifa Akter</h1>
 <h3 align="center">A passionate frontend developer | Web Designer | Web Developer</h3>
 
